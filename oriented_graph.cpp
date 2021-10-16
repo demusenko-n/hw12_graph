@@ -1,6 +1,7 @@
 #include "oriented_graph.h"
 #include <queue>
 #include <stack>
+#include <cstdint>
 //#define DEBUG
 #ifdef DEBUG
 #include <iostream>
